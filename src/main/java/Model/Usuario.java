@@ -15,7 +15,7 @@ public class Usuario {
     private int nivel;
     private int qntdVitorias;
     private int qntdPartidas;
-
+//teste
 
     public Usuario(String nome){
         this.nome = nome;

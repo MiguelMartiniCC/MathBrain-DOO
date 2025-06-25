@@ -22,7 +22,7 @@ public class UserDao {
 
     try (Connection conn = ConexaoDAO.conectorBD();
          PreparedStatement stmt = conn.prepareStatement(sql)) {
-//teste
+//testee
         stmt.setString(1, usuario.getNome());
         stmt.setString(2, usuario.getSenha());
         stmt.setInt(3, usuario.getNivel());

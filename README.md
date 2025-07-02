@@ -12,20 +12,22 @@ Inspirado no aplicativo Duolingo Math, o MathBrain é um jogo educativo que esti
 <div align="center">
   <img src="https://github.com/user-attachments/assets/172378a7-2ec9-4b33-91ca-f83c299d6685" alt="Descrição"/>
 </div>
-
-2. Abrir a pasta em uma IDE. Para conseguir jogar, deve-se executar a classe/arquivo “Main”, assim, o jogo irá abrir em uma tela Swing
+2. Deve-se inicializar um serviço de MySQL para rodar os bancos
+3. Abrir a pasta em uma IDE. Para conseguir jogar, deve-se executar a classe/arquivo “Main”, assim, o jogo irá abrir em uma tela Swing
 
 ## 🧠 Conceitos abordados no projeto
-Alguns conceitos que foram abordados no trabalho: 
+Feramentas: 
+- Java: Linguagem de Programação 
 - Swing - Biblioteca para interface gráfica no Java
 - Mysql - Persistencia dos dados
 
 ## Imagens do projeto
-![image](https://github.com/user-attachments/assets/cf86a3af-2ea0-42b4-978b-b388df5b1790)
-![image](https://github.com/user-attachments/assets/44ea2a81-0276-4eb6-b030-bbf4edd3fb13)
-![image](https://github.com/user-attachments/assets/205efc64-3949-4893-b571-4865a3a54c97)
-![image](https://github.com/user-attachments/assets/b5e13140-7f90-488f-a1dc-8d9534bb56be)
-![image](https://github.com/user-attachments/assets/45f938e6-f3a9-4b11-8898-039a4bd176cc)
+![image](https://github.com/user-attachments/assets/f709d5b6-ad39-417e-ae7d-267e8207ebb2)
+![image](https://github.com/user-attachments/assets/77944cc0-6fba-48e7-9168-1d810da9f25f)
+![image](https://github.com/user-attachments/assets/a47d25fa-46a3-4863-80bf-1965d3d50536)
+![image](https://github.com/user-attachments/assets/6bb6a443-677e-429d-b101-85b8517f2136)
+![image](https://github.com/user-attachments/assets/f6de0ea5-99f1-44ae-93ea-4a4d0b9fd9a5)
+
 
 
 ## Diagrama UML   
